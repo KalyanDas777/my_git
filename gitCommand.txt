@@ -6,6 +6,8 @@ git add TimeDifference.java
 git status
 git init
 
+git push origin master --force
+
 
 1. git init
 2. git status
