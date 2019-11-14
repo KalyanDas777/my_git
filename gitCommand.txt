@@ -1,0 +1,30 @@
+git push -u origin master
+git pull origin master --allow-unrelated-histories
+git remote add origin https://github.com/KalyanDas777/MyFirstRepo.git
+git commit -m "My first insertion"
+git add TimeDifference.java
+git status
+git init
+
+
+1. git init
+2. git status
+3. git add <directory>
+4. git add <file>
+5. git add -A
+6. git commit -m “<message>”
+7. git commit -a
+8. git remote add origin <link of your central repository>
+9. git pull origin master
+10. git pull origin <branch-name>
+11. git push <remote>
+12. git push origin master
+13. git push <remote> –force
+14. git branch <branch-name>
+15. git checkout <branch_name>
+16. git checkout -b[ branch_name] =>create a new branch and checkout the new branch at the same time.
+17. git merge <branch_name>
+18. git log
+
+19. ssh-keygen
+20. ssh -T git@github.com
